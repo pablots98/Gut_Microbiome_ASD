@@ -12,16 +12,8 @@
 
 ## Table of Contents
 1. [Scientific background](#scientific-background)  
-2. [Repository structure](#repository-structure)  
-3. [Requirements](#requirements)  
+2. [Requirements](#requirements)  
 4. [Installation](#installation)  
-5. [Quick start](#quick-start)  
-6. [Detailed workflow](#detailed-workflow)  
-7. [Example results](#example-results)  
-8. [How to cite](#how-to-cite)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-11. [References](#references)  
 
 ---
 
